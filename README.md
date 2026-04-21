@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Привет! Я Александр
 
-<!--
-**Sghurty/Sghurty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Разрабатываю Telegram-ботов для бизнеса
 
-Here are some ideas to get you started:
+### 🚀 Что я делаю
+- Боты для записи (салоны, стоматологии, автосервисы)
+- Боты-каталоги с корзиной
+- Интеграция с Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Примеры работ
+- [Бот для салона красоты]
+- [Бот для стоматологии]
+
+### 📫 Связаться
+Telegram: @sb_automation, @sb_bot_help
