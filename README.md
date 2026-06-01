@@ -39,6 +39,7 @@
 ## 📫 Контакты
 
 - Telegram: [@sb_automation](https://t.me/sb_automation)
+- Telegram: [@sb_bot_help](https://t.me/sb_bot_help)
 - Email: [alexandrilemkov@gmail.com]
 
 ---
