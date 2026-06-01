@@ -1,15 +1,46 @@
-## 👋 Привет! Я Александр
+# 👋 Привет, я Александр
 
-🤖 Разрабатываю Telegram-ботов для бизнеса
+**Python-разработчик** | Telegram-боты | Парсинг | Автоматизация
 
-### 🚀 Что я делаю
-- Боты для записи (салоны, стоматологии, автосервисы)
-- Боты-каталоги с корзиной
-- Интеграция с Google Sheets
+---
 
-### 📌 Примеры работ
-- [Бот для салона красоты]
-- [Бот для стоматологии]
+## 🚀 Что я делаю
 
-### 📫 Связаться
-Telegram: @sb_automation, @sb_bot_help
+- 🤖 Telegram-боты любой сложности (запись, уведомления, базы данных)
+- 📊 Парсеры сайтов (сбор данных в Excel/Google Sheets)
+- 🔄 Автоматизация рутины (скрипты под ваш бизнес)
+- 🎬 Скрипты для TikTok (автопостинг, уникализация видео)
+
+---
+
+## 🛠 Мой стек
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=flat&logo=playwright&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+- Python, Aiogram, Playwright, Selenium
+- SQLite, PostgreSQL, Google Sheets API
+- Docker, Git, FFmpeg
+
+---
+
+## 📂 Проекты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [Бот для салона красоты] | Запись клиентов, календарь, Google Sheets | Aiogram, SQLite |
+| [TikTok автопостер] | Авторизация, прогрев, публикация видео | Playwright, FFmpeg |
+| [Парсер авито] | Сбор объявлений в Excel | Selenium, Pandas |
+
+---
+
+## 📫 Контакты
+
+- Telegram: [@sb_automation](https://t.me/sb_automation)
+- Email: [alexandrilemkov@gmail.com]
+
+---
+
+> 💡 Открыт к сотрудничеству. Пишите — обсудим ваш проект.
